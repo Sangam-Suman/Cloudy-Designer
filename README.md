@@ -12,3 +12,7 @@ Future application will be the Virtual Tryouts in various stores …
 
 Open cloudy Designer folder to get the saprkAR studio project file.
 Images related to this project are stored inside texture folder.
+
+
+![Screenshot_2022-05-07-18-11-42-22_21c2b5f1dc36af19671d0917cc28a629](https://user-images.githubusercontent.com/100495965/167255243-0e586f48-c587-42b9-8283-cebd084a67cf.png)
+
